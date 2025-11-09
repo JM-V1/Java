@@ -1,2 +1,2 @@
 # Java
-Java projects and Misc.
+Java projects and Miscellaneous programs.
