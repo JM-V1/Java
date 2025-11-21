@@ -1,5 +1,7 @@
-//Create a rectangle and have it rotate 15 degrees to the right using Javafx
-
+/*
+  15.2 (Rotate a rectangle) Write a program that rotates a rectangle 15 degrees right
+  when the Rotate button is clicked, as shown in Figure 15.24b.
+ */
 
 
 package application;
