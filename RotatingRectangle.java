@@ -1,4 +1,7 @@
 //original fx program
+/*
+creates a rectangle with a button that, when pressed, rotates the rectangle in the center of the window 15 degrees to the right using JavaFX
+*/
 package application;
 	
 import javafx.application.Application;
@@ -84,4 +87,5 @@ public class RotatnigRectangle extends Application  {
 	}
 
 }
+
 
