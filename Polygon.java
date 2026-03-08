@@ -1,3 +1,9 @@
+/*
+The code creates a shape with three sides and has a button to increase and decrease the number of sides. 
+Going from as few as three sides to as many as twenty-five
+*/
+
+
 package application;
 
 import javafx.application.Application;
@@ -92,4 +98,5 @@ public class Polygon extends Application {
     public static void main(String[] args) {
         launch(args);
     }
+
 }
