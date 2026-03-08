@@ -1,4 +1,8 @@
-
+/*
+The project is to display the current date, then get user input for a specific date, and compare the two. The code checks the user input for a valid date
+while checking whether or not the input date is a leap year. The code then displays the days of the week and the number of days that were in the month for a 
+specific year
+*/
 import java.time.LocalDate;
 import java.time.YearMonth;
 import java.time.format.DateTimeFormatter;
@@ -165,4 +169,5 @@ public static void main(String[] args) {
 }
 
 }
+
 
